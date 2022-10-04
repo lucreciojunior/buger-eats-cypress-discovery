@@ -1,0 +1,53 @@
+{
+    "signup": {
+        "name": "Lucrecio Junior",
+        "cpf": "00000014141",
+        "email": "ljh@gmail.com",
+        "whatsapp": "11999999999",
+        "address": {
+            "postalcode": "54759475",
+            "street": "Rua Manoel Honorato da Costa",
+            "number": "000",
+            "details": "casa",
+            "district": "Vila da Fábrica",
+            "city_state": "Camaragibe/PE"
+        },
+        "delivery_method": "Moto",
+        "cnh": "cnh-digital.jpg"
+    },
+    "cpf_inv": {
+        "name": "Joan Lucas",
+        "cpf": "z00000141CB",
+        "email": "joan@hotmail.com",
+        "whatsapp": "11999999999",
+        "address": {
+            "postalcode": "54759475",
+            "street": "Rua Manoel Honorato da Costa",
+            "number": "1000",
+            "details": "casa",
+            "district": "Vila da Fábrica",
+            "city_state": "Camaragibe/PE"
+        },
+        "delivery_method": "Moto",
+        "cnh": "cnh-digital.jpg"
+    },
+
+    "email_inv": {
+        "name": "Joan",
+        "cpf": "03135469852",
+        "email": "joan.com",
+        "whatsapp": "11999999999",
+        "address": {
+            "postalcode": "54759475",
+            "street": "Rua Manoel Honorato da Costa",
+            "number": "1000",
+            "details": "casa",
+            "district": "Vila da Fábrica",
+            "city_state": "Camaragibe/PE"
+        },
+        "delivery_method": "Moto",
+        "cnh": "cnh-digital.jpg"
+    }
+
+    
+}
